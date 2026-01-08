@@ -132,7 +132,7 @@ export const testimonials = [
   {
     id: 6,
     name: "Lisa Anderson",
-    review: "Very happy with the level of attention I received. They only do the job if it's going to look great! Made changes based on their recommendations and I'm extremely happy.",
+    review: "Very happy with the level of attention I received. They only do the job if it&apos;s going to look great! Made changes based on their recommendations and I'm extremely happy.",
     rating: 5
   },
   {

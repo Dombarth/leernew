@@ -34,7 +34,7 @@ const About = () => {
                 {companyInfo.name.toUpperCase()} &<br />WATERPROOFING
               </h2>
               <p className="text-white/90 mb-4 leading-relaxed">
-                {companyInfo.name}, your premier choice for tiling in Sydney, NSW. With over <strong>10 years of industry</strong> experience, we've completed <strong>1000s of projects</strong> in both residential and commercial markets.
+                {companyInfo.name}, your premier choice for tiling in Sydney, NSW. With over <strong>10 years of industry</strong> experience, we&apos;ve completed <strong>1000s of projects</strong> in both residential and commercial markets.
               </p>
               <p className="text-white/90 mb-8 leading-relaxed">
                 We offer a wide range of services that include all styles of tiling, waterproofing, stone work, screening, floor bedding, and also specialised applications for balconies, podiums, main floors, bathrooms and more.

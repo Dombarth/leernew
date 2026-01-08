@@ -37,7 +37,7 @@ const AboutPage = () => {
                 Your Trusted Tiling Partners
               </h2>
               <p className="text-gray-600 mb-4 leading-relaxed">
-                {companyInfo.name} is Sydney's premier choice for all tiling and waterproofing needs. With over <strong>10 years of industry experience</strong>, we've completed thousands of projects across residential and commercial markets.
+                {companyInfo.name} is Sydney&apos;s premier choice for all tiling and waterproofing needs. With over <strong>10 years of industry experience</strong>, we&apos;ve completed thousands of projects across residential and commercial markets.
               </p>
               <p className="text-gray-600 mb-6 leading-relaxed">
                 Our team of skilled professionals is dedicated to delivering exceptional quality workmanship on every project. We take pride in our attention to detail and commitment to customer satisfaction.
@@ -46,7 +46,7 @@ const AboutPage = () => {
               <ul className="space-y-3 mb-8">
                 {[
                   '10+ years of industry experience',
-                  '1000s of completed projects',
+                  '1000+ completed projects',
                   'Fully licensed and insured',
                   'Workmanship guarantee up to 10 years',
                   'Competitive and transparent pricing',

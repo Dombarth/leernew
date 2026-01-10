@@ -1,5 +1,15 @@
 // Main JavaScript functionality
 
+// Mobile Dropdown Toggle Function (global)
+function toggleMobileDropdown(button) {
+    const dropdown = button.closest('.mobile-dropdown');
+    const menu = dropdown.querySelector('.mobile-dropdown-menu');
+    
+    // Toggle active class on button and menu
+    button.classList.toggle('active');
+    menu.classList.toggle('active');
+}
+
 // Wait for DOM to load
 document.addEventListener('DOMContentLoaded', function() {
     // Mobile Menu Toggle

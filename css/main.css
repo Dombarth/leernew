@@ -869,11 +869,6 @@ section {
 
 /* Responsive Design */
 @media (max-width: 768px) {
-    /* Mobile Header */
-    .header-container {
-        padding: 0 15px;
-    }
-    
     .header-top {
         padding: 0.5rem 0;
         flex-wrap: nowrap;
@@ -881,11 +876,11 @@ section {
     
     .logo {
         flex-shrink: 0;
-        max-width: 140px;
+        max-width: 200px;
     }
     
     .logo-img {
-        height: 80px;
+        height: 160px;
         width: auto;
         transform: none;
         margin: 0;
@@ -975,7 +970,7 @@ section {
 /* Small mobile devices */
 @media (max-width: 480px) {
     .logo-img {
-        height: 45px;
+        height: 140px;
     }
     
     .hero-title {

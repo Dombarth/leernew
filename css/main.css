@@ -876,12 +876,13 @@ section {
     
     .logo {
         flex-shrink: 0;
-        max-width: 200px;
+        overflow: visible;
     }
     
     .logo-img {
         height: 160px;
         width: auto;
+        max-width: none;
         transform: none;
         margin: 0;
         object-fit: contain;
